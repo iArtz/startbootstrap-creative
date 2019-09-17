@@ -10806,3 +10806,14 @@ header.masthead h1 {
 #category .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+img {
+  display: block;
+  padding: 20px;
+  margin: auto;
+  width: 30vh;
+}
+
+.icon {
+  width: 15vh;
+}

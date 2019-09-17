@@ -1,11 +1,11 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "MIS Helpdesk",
+    "name": "mis-helpdesk",
     "version": "5.1.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "Helpdesk Application",
     "keywords": [
         "css",
         "sass",
